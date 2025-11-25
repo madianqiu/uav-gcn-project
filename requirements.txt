@@ -1,0 +1,11 @@
+torch==2.8.0+cu128
+torchvision==0.17.0+cu128
+torchaudio==2.0.2+cu128
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric
+numpy
+matplotlib
+tqdm
